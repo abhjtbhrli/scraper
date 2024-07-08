@@ -48,4 +48,4 @@ jobs:
 
         git commit -m "Latest data: ${timestamp}" || exit 0
 
-        git push https://abhjtbhrli:nehaphukan1@github.com/abhjtbhrli/scraper.git --all
+        git push git@github.com:abhjtbhrli/scraper.git --all
