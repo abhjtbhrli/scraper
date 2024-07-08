@@ -46,4 +46,4 @@ jobs:
 
         git commit -m "Latest data: ${timestamp}" || exit 0
 
-        git push git@github.com:abhjtbhrli/scraper.git --all
+        git push
